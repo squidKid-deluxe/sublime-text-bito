@@ -16,6 +16,10 @@ This Sublime Text plugin, `BitoSuggest`, integrates with Bito to provide code su
    - On macOS: `~/Library/Application Support/Sublime Text/Packages`
    - On Linux: `~/.config/sublime-text/Packages`
 
+*PLEASE NOTE: I do not guarantee this package works on anything but Linux.  I have no other operating systems to test it on.*
+
+Contributions to ensure better support welcome.
+
 ## Usage
 
 1. Open Sublime Text.
